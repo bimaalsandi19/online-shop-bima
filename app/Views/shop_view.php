@@ -21,7 +21,7 @@
                         <img src="/assets/img/headphone.png" style="width: 80%;">
                     </p>
                     <p><strong>Headphone Sony</strong></p>
-                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+                    <p>$955 <span style="float: right;"><a href="/shop/detail">Detail</a></span></p>
 
                 </div>
             </div>

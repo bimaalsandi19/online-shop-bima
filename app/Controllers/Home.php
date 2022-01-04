@@ -20,4 +20,13 @@ class Home extends BaseController
         ];
         return view('shop_view', $data);
     }
+
+    public function about_us()
+    {
+        $data = [
+            'title' => 'About Us | Online Shop Bima',
+
+        ];
+        return view('about_view', $data);
+    }
 }
