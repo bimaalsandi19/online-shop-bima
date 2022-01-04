@@ -306,32 +306,5 @@
     </div>
 </section>
 
-<section class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3">
-                <p class="navbar-brand" style="font-size: 20px;">PHLOX</p>
-                <p style="font-size: 12px; color: gray;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eum recusandae iure officia, dolorum fugit quibusdam? Voluptatem tenetur quis assumenda.</p>
-            </div>
-            <div class="col-md-3">
-                <p><strong>Quick Links</strong></p>
-                <p><a href="" style="color: gray; text-decoration: none;">Home</a></p>
-                <p><a href="" style="color: gray; text-decoration: none;">About</a></p>
-                <p><a href="" style="color: gray; text-decoration: none;">Shop</a></p>
-                <p><a href="" style="color: gray; text-decoration: none;">Contact</a></p>
-            </div>
-            <div class="col-md-3">
-                <p><strong>Contact</strong></p>
-                <p>082387838046</p>
-                <p>bimaalsandi19@gmail.com</p>
-                <p>(0752)122345</p>
-            </div>
-            <div class="col-md-3">
-                <p><strong>Subscribe To Our Email</strong></p>
-                <p style="font-size: 20px; color: black; font-weight: bold;">For Latest News & Updates</p>
 
-            </div>
-        </div>
-    </div>
-</section>
 <?= $this->endSection(); ?>

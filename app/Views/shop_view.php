@@ -13,7 +13,7 @@
             <a class="breadcrumb-item" href="#">Home</a>
             <span class="breadcrumb-item active">Shop</span>
         </nav>
-        <p class="mt-4" style="font-weight: bold; font-size: 20px;">Category</p>
+        <p class="mt-4" style="font-weight: bold; font-size: 20px;">Headphone</p>
         <div class="row">
             <div class="col-md-3 col-6 my-2">
                 <div class="card p-2">
@@ -51,6 +51,95 @@
                         <img src="/assets/img/headphone.png" style="width: 80%;">
                     </p>
                     <p><strong>Headphone Sony</strong></p>
+                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+
+                </div>
+            </div>
+
+        </div>
+
+        <p class="mt-4" style="font-weight: bold; font-size: 20px;">Game Console</p>
+        <div class="row">
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/6.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Playstation 4</strong></p>
+                    <p>$955 <span style="float: right;"><a href="/shop/detail">Detail</a></span></p>
+
+                </div>
+            </div>
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/6.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Playstation 4</strong></p>
+                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+
+                </div>
+            </div>
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/6.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Playstation 4</strong></p>
+                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+
+                </div>
+            </div>
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/6.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Playstation 4</strong></p>
+                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+
+                </div>
+            </div>
+
+        </div>
+        <p class="mt-4" style="font-weight: bold; font-size: 20px;">Smart Watch</p>
+        <div class="row">
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/8.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Smart Watch</strong></p>
+                    <p>$955 <span style="float: right;"><a href="/shop/detail">Detail</a></span></p>
+
+                </div>
+            </div>
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/8.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Smart Watch</strong></p>
+                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+
+                </div>
+            </div>
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/8.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Smart Watch</strong></p>
+                    <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
+
+                </div>
+            </div>
+            <div class="col-md-3 col-6 my-2">
+                <div class="card p-2">
+                    <p align="center">
+                        <img src="/assets/img/8.png" style="width: 80%;">
+                    </p>
+                    <p><strong>Smart Watch</strong></p>
                     <p>$955 <span style="float: right;"><a href="">Detail</a></span></p>
 
                 </div>
